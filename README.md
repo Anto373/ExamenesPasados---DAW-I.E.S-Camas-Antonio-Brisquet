@@ -1,6 +1,6 @@
 # Repositorio de exámenes de DAW
 
-Este repositorio está dedicado a recopilar los exámenes que se han realizado en el ciclo formativo de Desarrollo de Aplicaciones Web (DAW). Lo realiza un alumno anónimo. Las carpetas pueden contener nombres de docentes, sin los apellidos.
+Este repositorio está dedicado a recopilar los exámenes que se han realizado en el ciclo formativo de Desarrollo de Aplicaciones Web (DAW). Lo realiza un alumno anónimo. Las carpetas pueden contener nombres de docentes sustitutos.
 
 ## Asignaturas
 
