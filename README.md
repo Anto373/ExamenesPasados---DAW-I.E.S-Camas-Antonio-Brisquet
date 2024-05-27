@@ -8,7 +8,7 @@ Los exámenes se dividen por asignaturas, que son las siguientes:
 
 - Bases de datos
 - Entornos de desarrollo
-- Formación y orientación
+- Formación y orientación laboral
 - Lenguaje de marcas
 - Programación
 - Sistemas informáticos
